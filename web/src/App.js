@@ -10,7 +10,7 @@ function App() {
     const [input, setInput] = useState("");
     const [chatlog, setChatlog] = useState([{
         user: "gpt",
-        message: "Como posso te ajudar?"
+        message: "Olá, como posso te ajudar?"
     }
     ]);
 
